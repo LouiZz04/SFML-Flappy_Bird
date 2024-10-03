@@ -18,5 +18,5 @@ Clone repo and follow instructions from main sfml-website https://www.sfml-dev.o
 
 4. Execute `./sfml-app`
 
-for more detailed instructions go to https://www.sfml-dev.org/tutorials/2.6/start-linux.php
+for more detailed instructions go to [sfml-start-linux](https://www.sfml-dev.org/tutorials/2.6/start-linux.php)
 
