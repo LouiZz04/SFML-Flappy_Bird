@@ -6,7 +6,7 @@ Created using SFML library in C++
 
 ### For Windows
 
-Clone repo and follow instructions from main sfml-website https://www.sfml-dev.org/tutorials/2.6/compile-with-cmake.php to compile SFML on windows
+Clone repo and follow instructions from main [sfml-website](https://www.sfml-dev.org/tutorials/2.6/compile-with-cmake.php) to compile SFML on windows
 
 ### For Linux
 
